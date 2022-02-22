@@ -1,5 +1,6 @@
-# Hello World! I'm Silvia 👋
-## ✨ A passionate frontend developer based in Barcelona, Spain ✨
+# Nice to meet you! I'm Silvia 👋
+
+### A passionate frontend developer based in Barcelona, Spain ✨
 
 - 😄 I recently graduated from a bootcamp [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2), where I discovered the beauty of coding and programming. I've always been interested in tech, but my passion for problem solving and my desire for learning have driven me to learn web development and change my career. And, I must say, the journey has been lovely so far!
 
@@ -7,13 +8,13 @@
 
 - 🔭 I’m currently working on improvements to my [final project of the IT Academy: Reactube](https://github.com/silviapio/r9-reactube), finalizing a React [Speed Typing Game](https://github.com/silviapio/speed-typing-game), and looking for some open source projects to participate on.
 
-- 💬 Ask me about **JavaScript and React.js**. Not too difficult questions though, I'm not a guru (yet! 😉)
+- 💬 You can ask me about **JavaScript and React.js**. Not too difficult questions though, I'm not a guru (yet! But I'm working on it 😉)
 
-- 📫 How to reach me **silvia.piovesan@gmail.com**
+- 📫 Want to reach me? Drop me an email at **silvia.piovesan@gmail.com**
 
 - 📄 Want to know about my experiences? Visit my [LinkedIn](https://www.linkedin.com/in/silvia-piovesan/)
 
-- ⚡ Some Fun facts:
+- ⚡ Some Fun facts about me:
  
   - I have done around 2,000 km hiking on the Camino de Santiago 🚶‍♀️ Totally recommended!
 
