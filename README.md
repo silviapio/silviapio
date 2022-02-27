@@ -2,19 +2,27 @@
 
 ### A passionate frontend developer based in Barcelona, Spain ✨
 
-- 😄 I recently graduated from a bootcamp [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2), where I discovered the beauty of coding and programming. I've always been interested in tech, but my passion for problem solving and my desire for learning have driven me to learn web development and change my career. And, I must say, the journey has been lovely so far!
+😄 I recently graduated from a bootcamp [IT Academy](https://cibernarium.barcelonactiva.cat/it-academy2), where I discovered the beauty of coding and programming. I've always been interested in tech, but my passion for problem solving and my desire for learning have driven me to learn web development and change my career. And, I must say, the journey has been lovely so far!
 
-- 🌱 I’m currently learning **Web Accessibility, Testing (Jest), Computer Science and C (CS50), Figma**
+> **What's new?** 🔥
 
-- 🔭 I’m currently working on improvements to my [final project of the IT Academy: Reactube](https://github.com/silviapio/r9-reactube), finalizing a React [Speed Typing Game](https://github.com/silviapio/speed-typing-game), and looking for some open source projects to participate on.
+In the last days I partecipated to an hackathon and my solo project was selected for the final group challenge! Check out the repo: [https://github.com/silviapio/mwc22](https://github.com/silviapio/mwc22) and let me know what you think!
 
-- 💬 You can ask me about **JavaScript and React.js**. Not too difficult questions though, I'm not a guru (yet! But I'm working on it 😉)
+🔭 I’m currently working on improvements to my [final project of the IT Academy: Reactube](https://github.com/silviapio/r9-reactube), finalizing a React [Speed Typing Game](https://github.com/silviapio/speed-typing-game), and looking for some open source projects to participate on.
 
-- 📫 Want to reach me? Drop me an email at **silvia.piovesan@gmail.com**
+🌱 The beauty of web development and programming in general, is that no matter how deep your understanding is or what beautiful things you can build, there is always something left to learn. Some topics I'm focusing on at the moment:
+   - **Web Accessibility**: this is a very important area for me. There is so much power and information on the Internet right now, we simply cannot forget to make everything we build, accessible for everyone. A great resource for that is A11Y Project, specifically their accessibility [checklist](https://www.a11yproject.com/checklist/). If you are also interested in this, please get in touch either via email or Twitter, and let's change the web together!
+   - **Foundations of Computer Science**: as Economics graduate, I love understanding why things add up, so I figured some programming theory wouldn't hurt. I'm taking [CS50x](https://cs50.harvard.edu/x/2022/), Harvard's course for CS majors. Algorithms sharpen my mind, and I'm also learning the basics of C. I'm definitely enjoying this course.
+   - **Testing**: I'm exploring the topic as it makes writing solid and maintanable applications so much easier. At the moment I'm trying Jest.
+   - **React advanced**: I'm taking an advanced React.js course on [Scrimba](https://scrimba.com/), an excellent interactive platform and a vibrant, helpful community of which I'm an active member.
 
-- 📄 Want to know about my experiences? Visit my [LinkedIn](https://www.linkedin.com/in/silvia-piovesan/)
+💬 You can ask me about **JavaScript and React.js**. Not too difficult questions though, I'm not a guru (yet! But I'm working on it 😉)
 
-- ⚡ Some Fun facts about me:
+📫 Want to reach me? Drop me an email at **silvia.piovesan@gmail.com**
+
+📄 Want to know about my experiences? Visit my [LinkedIn](https://www.linkedin.com/in/silvia-piovesan/)
+
+⚡ Some Fun facts about me:
  
   - I have done around 2,000 km hiking on the Camino de Santiago 🚶‍♀️ Totally recommended!
 
