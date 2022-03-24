@@ -6,9 +6,9 @@
 
 > **What's new?** 🔥
 
-In the last days I partecipated to an hackathon and my solo project was selected for the final group challenge! Check out the repo: [https://github.com/silviapio/mwc22](https://github.com/silviapio/mwc22) and let me know what you think!
+I just finished my portfolio website! Want to have a look? Go to [https://www.silviapiovesan.com/](https://www.silviapiovesan.com/) and/or check the repo [portfolio](https://github.com/silviapio/portfolio). Make sure to let me know what you think!
 
-🔭 I’m currently working on improvements to my [final project of the IT Academy: Reactube](https://github.com/silviapio/r9-reactube), finalizing a React [Speed Typing Game](https://github.com/silviapio/speed-typing-game), and looking for some open source projects to participate on.
+🔭 I’m currently renewing a friend's website (can't publish it yet), studying testing and some backend, and looking for some open source projects to participate on.
 
 🌱 The beauty of web development and programming in general, is that no matter how deep your understanding is or what beautiful things you can build, there is always something left to learn. Some topics I'm focusing on at the moment:
    - **Web Accessibility**: this is a very important area for me. There is so much power and information on the Internet right now, we simply cannot forget to make everything we build, accessible for everyone. A great resource for that is A11Y Project, specifically their accessibility [checklist](https://www.a11yproject.com/checklist/). If you are also interested in this, please get in touch either via email or Twitter, and let's change the web together!
