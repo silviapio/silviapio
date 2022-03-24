@@ -18,8 +18,6 @@ In the last days I partecipated to an hackathon and my solo project was selected
 
 💬 You can ask me about **JavaScript and React.js**. Not too difficult questions though, I'm not a guru (yet! But I'm working on it 😉)
 
-📫 Want to reach me? Drop me an email at **silvia.piovesan@gmail.com**
-
 📄 Want to know about my experiences? Visit my [LinkedIn](https://www.linkedin.com/in/silvia-piovesan/)
 
 ⚡ Some Fun facts about me:
